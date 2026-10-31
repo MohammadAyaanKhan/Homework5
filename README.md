@@ -3,7 +3,7 @@
 **Author:** Mohammad Ayaan Khan (GitHub: MohammadAyaanKhan)
 
 ## Contents
-- `notebook/Homework5.ipynb`: the executed notebook with all code, outputs, plots and written answers.
+- `notebook/Khan_MohammadAyaan_HW5.ipynb`: the executed notebook with all code, outputs, plots and written answers.
 - `data/`: the two UCI datasets used.
   - `diagnosis.data`, `diagnosis.names`: Acute Inflammations
   - `communities.data`, `communities.names`: Communities and Crime
